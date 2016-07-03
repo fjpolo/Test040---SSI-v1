@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.9.3 -mcpu=cortex-m4 -mthumb -g -Map=Test040 - SPI v1.map -O0 --gc-sections -lstdc++ -LC:\CooCox\CoIDE\configuration\ProgramData\Test040 - SPI v1 -TC:\CooCox\CoIDE\configuration\ProgramData\Test040 - SPI v1/arm-gcc-link.ld -g">
+      <target file="Test040 - SPI v1.elf" lastModified="155b1979626">
+         <source file="..\obj\hibernate.o" lastModified="155b166bd31"/>
+         <source file="..\obj\delay.o" lastModified="155b166bdae"/>
+         <source file="..\obj\datalogger.o" lastModified="155b179905a"/>
+         <source file="..\obj\i2c.o" lastModified="155b166c046"/>
+         <source file="..\obj\flash.o" lastModified="155b166c0eb"/>
+         <source file="..\obj\timer.o" lastModified="155b166c1c0"/>
+         <source file="..\obj\emac.o" lastModified="155b166c2ef"/>
+         <source file="..\obj\pwm.o" lastModified="155b166c3c2"/>
+         <source file="..\obj\uart.o" lastModified="155b166c4aa"/>
+         <source file="..\obj\fpu.o" lastModified="155b166c53a"/>
+         <source file="..\obj\sw_crc.o" lastModified="155b166c5db"/>
+         <source file="..\obj\epi.o" lastModified="155b166c6a8"/>
+         <source file="..\obj\main.o" lastModified="155b19793a8"/>
+         <source file="..\obj\sysctl.o" lastModified="155b166ca09"/>
+         <source file="..\obj\usb.o" lastModified="155b166cbae"/>
+         <source file="..\obj\shamd5.o" lastModified="155b166cc4a"/>
+         <source file="..\obj\can.o" lastModified="155b166cd20"/>
+         <source file="..\obj\watchdog.o" lastModified="155b166cda4"/>
+         <source file="..\obj\comp.o" lastModified="155b166ce1e"/>
+         <source file="..\obj\gpio.o" lastModified="155b166cf0f"/>
+         <source file="..\obj\aes.o" lastModified="155b166cfc3"/>
+         <source file="..\obj\crc.o" lastModified="155b166d038"/>
+         <source file="..\obj\onewire.o" lastModified="155b166d0d8"/>
+         <source file="..\obj\interrupt.o" lastModified="155b166d17b"/>
+         <source file="..\obj\mpu.o" lastModified="155b166d1f0"/>
+         <source file="..\obj\syscalls.o" lastModified="155b166d28b"/>
+         <source file="..\obj\ssi.o" lastModified="155b166d33b"/>
+         <source file="..\obj\adc.o" lastModified="155b166d420"/>
+         <source file="..\obj\ff.o" lastModified="155b166d64d"/>
+         <source file="..\obj\lcd.o" lastModified="155b166d70c"/>
+         <source file="..\obj\qei.o" lastModified="155b166d79b"/>
+         <source file="..\obj\mmc-dk-tm4c123g.o" lastModified="155b166d85d"/>
+         <source file="..\obj\sysexc.o" lastModified="155b166d8e4"/>
+         <source file="..\obj\startup_Cortex_M4.o" lastModified="155b166d959"/>
+         <source file="..\obj\cpu.o" lastModified="155b166d9c7"/>
+         <source file="..\obj\systick.o" lastModified="155b166da3c"/>
+         <source file="..\obj\udma.o" lastModified="155b166dae0"/>
+         <source file="..\obj\des.o" lastModified="155b166db74"/>
+         <source file="..\obj\eeprom.o" lastModified="155b166dc11"/>
+      </target>
+   </processor>
+</history>
